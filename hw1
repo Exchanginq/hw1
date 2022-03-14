@@ -1,0 +1,20 @@
+public class MyClass {
+    public static void main(String args[]) {
+      	System.out.println("Umair Shahid");
+      	System.out.println("ushahi01@nyit.edu");
+      	System.out.println("1299764");
+
+int x=5;
+int y=6;
+int z=x+y;
+int e=5;
+      	System.out.println("X is"+"   "+x);
+      	System.out.println("Y is"+"   "+y);
+      	System.out.println("X+Y is"+"   "+z);
+         	System.out.println("E is"+"   "+e);
+
+      e++;
+      	System.out.println("e +1 is"+"   "+e);
+
+    }
+}
